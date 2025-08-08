@@ -3,11 +3,11 @@
 A web-based admin panel for managing books, built with Node.js, Express, MongoDB, and EJS. This project demonstrates full CRUD (Create, Read, Update, Delete) operations with a modern, responsive UI and modular code structure.
 
 ## Output Screenshots
-### Add Book
-![Add Book](output/addBook.png)
-
 ### Dashboard
 ![Dashboard](output/dashboard.png)
+
+### Add Book
+![Add Book](output/addBook.png)
 
 ### View Book
 ![View Book](output/viewBook.png)
@@ -35,9 +35,9 @@ A web-based admin panel for managing books, built with Node.js, Express, MongoDB
 ## Getting Started
 To clone this repository, run:
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Soaib-Shaikh/PR-Crud-Operation-Admin-Panel-Node.js.git
 ```
-Replace `your-username/your-repo-name` with your actual GitHub username and repository name.
+Replace `Soaib-Shaikh/PR-Crud-Operation-Admin-Panel-Node.js.git` with your actual GitHub username and repository name.
 
 Install dependencies:
 ```sh
